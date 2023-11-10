@@ -25,7 +25,8 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 ```
 
-# **Получаем данные и знакомимся с ними**
+# **Получаем данные и знакомимся с ними** 
+Исходные данные лежат в папке data; название файла: data_test_task_2022.xlsx
 
 
 ```python
@@ -35,8 +36,9 @@ file_path = '/content/drive/MyDrive/data/data_test_task_2022.xlsx'
 # Считываем данные из файла Excel
 try:
     df = pd.read_excel('/datasets/data_test_task_2022.xlsx')
-    # df = pd.read_excel('укажите путь привычным вам способом') Например, вы загружаете файл с данными на компьютер, а потом работаете 
-    # с ними через Jupyter Notebook или обычно открываете файлы через Сolab. Короче, найдите способ открыть файл =) Это просто!)
+    # df = pd.read_excel('укажите путь привычным вам способом') Например, вы загружаете файл с данными на компьютер,
+    # а потом работаете с ними через Jupyter Notebook или обычно открываете файлы через Сolab.
+    # Короче, найдите способ открыть файл =) Это просто!)
 except:
     df = pd.read_excel(file_path)
 
