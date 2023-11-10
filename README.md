@@ -1,10 +1,12 @@
 Проект: **Анализ изменения цены лечения в медицинской клинике**
 
-[id]: [https://clck.ru/36XDhx](https://disk.yandex.ru/client/recent?idApp=client&dialog=slider&idDialog=%2Fdisk%2F%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B%2F2023-11-10_21-10-48.png) "test"
-.
-.
-.
 ![alt][id]
+.
+.
+.
+[id]: https://disk.yandex.ru/i/95RQIunqniI7Sw "test"
+
+
 
 **Описание проекта:**
 Провел анализ изменения цен в медицинской клинике за 2022 год относительно 2021 года.
