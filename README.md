@@ -42,16 +42,16 @@
 Средняя стоимость услуги выросла на 5.37%, что оказалось ниже уровня инфляции (11.94%). 
 Таким образом, стоимость услуг в 2022 году стала выше, но оставалась более доступной для клиентов.
 
-**Выводы по второй гипотезе - отвергается:**
+**Выводы по второй гипотезе - отвергается:** \
 График и расчет корреляции не выявили взаимосвязи между возрастом и стоимостью услуг. 
 Следовательно, гипотеза о влиянии возраста клиентов на стоимость лечения отвергнута.
 
-**Выводы по третьей гипотезе - отвергается.:**
+**Выводы по третьей гипотезе - отвергается.:** \
 Корреляция между средней стоимостью услуг и курсом доллара была -0.438, указывая на обратную зависимость. 
 Это указывает на то, что при увеличении курса доллара средняя стоимость услуг снижается. 
 Вывод: повышение курса доллара коррелирует с уменьшением стоимости медицинских услуг.
 
-**Общий вывод:**
+**Общий вывод:** \
 Рост стоимости услуг в 2022 году объясняется не только инфляцией, но и другими факторами. 
 Влияние возраста клиентов на стоимость услуг не подтверждено, в то время как уменьшение 
 стоимости услуг при росте курса доллара представляет собой интересную тенденцию. 
@@ -99,21 +99,21 @@ Before starting the data analysis, it was assumed that the cost of treatment inc
 2. The increase in the average age of clients led to an increase in the cost of treatment.
 3. The impact of the dollar exchange rate growth on the increase in the cost of treatment.
 
-**Conclusions on the First Hypothesis - not rejected:**
+**Conclusions on the First Hypothesis - not rejected:** \
 The average bill in 2022 was 1195 rubles, which is 4.9% higher than in 2021 (1139 rubles).
 The average cost of the service increased by 5.37%, which was lower than the inflation rate (11.94%).
 Thus, the cost of services in 2022 became higher but remained more affordable for clients.
 
-**Conclusions on the Second Hypothesis - rejected:**
+**Conclusions on the Second Hypothesis - rejected:** \
 The graph and correlation calculation did not reveal a relationship between age and the cost of services.
 Therefore, the hypothesis of the influence of clients' age on the cost of treatment is rejected.
 
-**Conclusions on the Third Hypothesis - rejected:**
+**Conclusions on the Third Hypothesis - rejected:** \
 The correlation between the average cost of services and the dollar exchange rate was -0.438, indicating an inverse relationship.
 This suggests that as the dollar exchange rate increases, the average cost of services decreases.
 Conclusion: the increase in the dollar exchange rate correlates with a decrease in the cost of medical services.
 
-**Overall Conclusion:**
+**Overall Conclusion:** \
 The increase in the cost of services in 2022 is explained not only by inflation but also by other factors.
 The influence of clients' age on the cost of services is not confirmed, while the reduction in the cost of services with the growth of the dollar exchange rate represents an interesting trend.
 However, it is essential to remember that correlation does not always indicate a cause-and-effect relationship, and other factors may also influence treatment costs.
