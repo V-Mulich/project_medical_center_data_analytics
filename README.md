@@ -12,6 +12,13 @@
 3. Сделать выводы по гипотезам.
 4. Написать общий вывод.
 
+Используемые **библиотеки**:
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+import plotly.express as px
+
 **Описание данных:**
 • record_id - уникальный идентификатор строки данных;
 • service_date - дата оказания медицинской услуги;
@@ -66,6 +73,13 @@ To identify key factors influencing the changes in treatment costs.
 2. Conduct exploratory data analysis.
 3. Draw conclusions on the hypotheses.
 4. Summarize findings.
+
+**Libraries** used:
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+import plotly.express as px
 
 **Data Description:**
 • record_id - unique identifier for a data row;
