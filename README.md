@@ -13,11 +13,11 @@
 4. Написать общий вывод.
 
 Используемые **библиотеки**:
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-import plotly.express as px
+* import pandas as pd
+* import numpy as np
+* import seaborn as sns
+* import matplotlib.pyplot as plt
+* import plotly.express as px
 
 **Описание данных:**
 * record_id - уникальный идентификатор строки данных;
@@ -75,21 +75,21 @@ To identify key factors influencing the changes in treatment costs.
 4. Summarize findings.
 
 **Libraries** used:
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-import plotly.express as px
+* import pandas as pd
+* import numpy as np
+* import seaborn as sns
+* import matplotlib.pyplot as plt
+* import plotly.express as px
 
 **Data Description:**
-• record_id - unique identifier for a data row;
-• service_date - date of medical service;
-• service_name - name of the medical service;
-• service_number - quantity of services;
-• service_amount - payment amount (cost of services provided in rubles);
-• insured - unique patient identifier;
-• sex_id - patient's gender;
-• age_for_service_date - patient's age.
+* record_id - unique identifier for a data row;
+* service_date - date of medical service;
+* service_name - name of the medical service;
+* service_number - quantity of services;
+* service_amount - payment amount (cost of services provided in rubles);
+* insured - unique patient identifier;
+* sex_id - patient's gender;
+* age_for_service_date - patient's age.
 
 Before starting the data analysis, it was assumed that the cost of treatment increased in 2022.
 
