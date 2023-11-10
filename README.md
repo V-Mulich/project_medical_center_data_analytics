@@ -1,6 +1,10 @@
 Проект: **Анализ изменения цены лечения в медицинской клинике**
 
-![]dynamics_of_cost_and_exchange_rate.png
+dynamics_of_cost_and_exchange_rate.png
+
+![alt][id]
+⋮
+[id]: dynamics_of_cost_and_exchange_rate.png "title"
 
 **Описание проекта:**
 Провел анализ изменения цен в медицинской клинике за 2022 год относительно 2021 года.
