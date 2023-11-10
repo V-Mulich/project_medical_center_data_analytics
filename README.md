@@ -1,6 +1,6 @@
 Проект: **Анализ изменения цены лечения в медицинской клинике**
 
-![](https://commonmark.org/help/images/favicon.png) 
+![](https://disk.yandex.ru/i/yY28y7Sd7gL_tg)
 
 
 **Описание проекта:**
