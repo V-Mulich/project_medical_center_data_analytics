@@ -2,7 +2,7 @@
 
 dynamics_of_cost_and_exchange_rate.png
 
-![alt][id]
+![][id]
 ⋮
 [id]: dynamics_of_cost_and_exchange_rate.png "title"
 
