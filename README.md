@@ -1,7 +1,7 @@
 Проект: **Анализ изменения цены лечения в медицинской клинике**
 
 
-![](https://clck.ru/36XCid)
+![](https://disk.yandex.ru/i/95RQIunqniI7Sw) 
 
 
 
