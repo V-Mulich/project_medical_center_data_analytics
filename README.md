@@ -1,8 +1,6 @@
 Проект: **Анализ изменения цены лечения в медицинской клинике**
 
-dynamics_of_cost_and_exchange_rate.png
-
-[id]: dynamics_of_cost_and_exchange_rate.png "title"
+![](https://github.com/V-Mulich/projects/blob/main/images/dynamics_of_cost_and_exchange_rate.png)
 
 **Описание проекта:**
 Провел анализ изменения цен в медицинской клинике за 2022 год относительно 2021 года.
