@@ -39,7 +39,7 @@
 
 **Выводы по первой гипотезе - не отвергается:** \
 Средний чек в 2022 году составил 1195 рублей, что на 4.9% больше, чем в 2021 году (1139 рублей). 
-Средняя стоимость услуги выросла на 5.37%, что оказалось ниже уровня инфляции (11.94%). 
+Средняя стоимость услуги выросла на 5.37%, что оказалось ниже уровня инфляции (11.94%) в России в 2022 году. 
 Таким образом, стоимость услуг в 2022 году стала выше, но оставалась более доступной для клиентов.
 
 **Выводы по второй гипотезе - отвергается:** \
@@ -101,8 +101,8 @@ Before starting the data analysis, it was assumed that the cost of treatment inc
 
 **Conclusions on the First Hypothesis - not rejected:** \
 The average bill in 2022 was 1195 rubles, which is 4.9% higher than in 2021 (1139 rubles).
-The average cost of the service increased by 5.37%, which was lower than the inflation rate (11.94%).
-Thus, the cost of services in 2022 became higher but remained more affordable for clients.
+The average cost of the service increased by 5.37%, which was lower than the inflation rate (11.94%) 
+in Russia in 2022. Thus, the cost of services in 2022 became higher but remained more affordable for clients.
 
 **Conclusions on the Second Hypothesis - rejected:** \
 The graph and correlation calculation did not reveal a relationship between age and the cost of services.
@@ -115,5 +115,7 @@ Conclusion: the increase in the dollar exchange rate correlates with a decrease 
 
 **Overall Conclusion:** \
 The increase in the cost of services in 2022 is explained not only by inflation but also by other factors.
-The influence of clients' age on the cost of services is not confirmed, while the reduction in the cost of services with the growth of the dollar exchange rate represents an interesting trend.
-However, it is essential to remember that correlation does not always indicate a cause-and-effect relationship, and other factors may also influence treatment costs.
+The influence of clients' age on the cost of services is not confirmed, while the reduction in the cost of 
+services with the growth of the dollar exchange rate represents an interesting trend.
+However, it is essential to remember that correlation does not always indicate a cause-and-effect 
+relationship, and other factors may also influence treatment costs.
