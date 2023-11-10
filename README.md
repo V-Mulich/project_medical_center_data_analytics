@@ -2,8 +2,6 @@
 
 dynamics_of_cost_and_exchange_rate.png
 
-![][id]
-⋮
 [id]: dynamics_of_cost_and_exchange_rate.png "title"
 
 **Описание проекта:**
