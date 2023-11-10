@@ -1,6 +1,7 @@
 Проект: **Анализ изменения цены лечения в медицинской клинике**
 
-![](https://disk.yandex.ru/i/yY28y7Sd7gL_tg)
+![](![download1](https://github.com/V-Mulich/projects/assets/115978568/b2e7a74a-8169-4bfc-9694-9a5e6495670e)
+)
 
 
 **Описание проекта:**
