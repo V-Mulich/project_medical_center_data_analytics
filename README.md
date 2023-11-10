@@ -1,7 +1,7 @@
 Проект: **Анализ изменения цены лечения в медицинской клинике**
 
 
-(график)[https://disk.yandex.ru/i/95RQIunqniI7Sw]
+[график](https://disk.yandex.ru/i/95RQIunqniI7Sw)
 
 
 
