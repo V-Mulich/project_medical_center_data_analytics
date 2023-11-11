@@ -38,7 +38,7 @@ import plotly.express as px
 [1]:https://github.com/V-Mulich/project_medical_center_data_analytics/tree/main/data
 
 
-Если вы ейчас не на GitHub,  то проходите по этой ссылке: [исходные данные](https://github.com/V-Mulich/project_medical_center_data_analytics/tree/main/data)
+Если вы ейчас не на GitHub,  то проходите по этой ссылке: [исходные данные3](https://github.com/V-Mulich/project_medical_center_data_analytics/tree/main/data)
 
 
 
