@@ -26,9 +26,9 @@ import plotly.express as px
 ```
 
 # **Получаем данные и знакомимся с ними** 
-# Исходные данные лежат в папке `data`; название файла: [data_test_task_2022.xlsx](data)
+Исходные данные лежат в папке `data`; название файла: (test)[data_test_task_2022.xlsx](data)
 
-[id]: https://github.com/V-Mulich/project_medical_center_data_analytics/blob/main/data/data_test_task_2022.xlsx "исходные данные"
+
 
 ```python
 # Укажите путь к файлу Excel.
