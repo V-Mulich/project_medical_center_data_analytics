@@ -29,7 +29,7 @@ import plotly.express as px
 Исходные данные лежат в папке `data`; название файла: `data_test_task_2022.xlsx` \
 Получить данные на GitHub: [исходные данные](https://github.com/V-Mulich/project_medical_center_data_analytics/tree/main/data)
 
-Описание данных:
+**Описание данных:** \
 * `record_id` - уникальный идентификатор строки данных;
 * `service_date` - дата оказания медицинской услуги;
 * `service_name` - наименование медицинской услуги;
