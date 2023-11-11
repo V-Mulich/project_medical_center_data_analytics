@@ -36,6 +36,7 @@ import plotly.express as px
 file_paths = [
     '/datasets/data_test_task_2022.xlsx',
     '../datatest/data_test_task_2022.xlsx',
+    'C:\\Users\Мулич\datatest\data_test_task_2022.xlsx',
     '/content/drive/MyDrive/data/data_test_task_2022.xlsx'
 ]
 
