@@ -36,8 +36,9 @@ import plotly.express as px
 # а потом работаете с ними через Jupyter Notebook или обычно открываете файлы через Сolab.
 # Короче, найдите способ открыть файл =) Это просто! Ниже - лишь один из множества способов.
 file_paths = [
-    '/datasets/data_test_task_2022.xlsx',
+     '/datasets/data_test_task_2022.xlsx',
     '../datatest/data_test_task_2022.xlsx',
+    'C:\\Users\Мулич\datatest\data_test_task_2022.xlsx',
     '/content/drive/MyDrive/data/data_test_task_2022.xlsx'
 ]
 
@@ -47,7 +48,7 @@ for file_path in file_paths:
         df = pd.read_excel(file_path)
         print(f"Данные успешно получены из файла по пути: {file_path}")
         break  # Если считывание прошло успешно, выходим из цикла
-    except: 
+    except:
         print(" ")
 else:
     # Этот блок выполнится, если цикл завершится без использования break
