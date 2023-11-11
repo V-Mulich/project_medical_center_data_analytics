@@ -803,7 +803,7 @@ plt.show()
 
 
     
-![png](output_86_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_86_0.png)
     
 
 
@@ -854,7 +854,7 @@ plt.show()
 
 
     
-![png](output_90_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_90_0.png)
     
 
 
@@ -894,7 +894,7 @@ plt.show()
 
 
     
-![png](output_92_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_92_0.png)
     
 
 
@@ -951,7 +951,7 @@ plt.show()
 
 
     
-![png](output_96_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_96_0.png)
     
 
 
@@ -1024,7 +1024,7 @@ plt.show()
 
 
     
-![png](output_102_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_102_0.png)
     
 
 
@@ -1072,7 +1072,7 @@ plt.show()
 
 
     
-![png](output_107_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_107_0.png)
     
 
 
@@ -1145,7 +1145,7 @@ plt.show()
 
 
     
-![png](output_114_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_114_0.png)
     
 
 
@@ -1170,7 +1170,7 @@ plt.show()
 
 
     
-![png](output_116_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_116_0.png)
     
 
 
@@ -1191,7 +1191,7 @@ plt.show()
 
 
     
-![png](output_117_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_117_0.png)
     
 
 
@@ -1227,7 +1227,7 @@ plt.show()
 
 
     
-![png](output_118_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_118_0.png)
     
 
 
@@ -1337,7 +1337,7 @@ plt.show()
 
 
     
-![png](output_127_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_127_0.png)
     
 
 
@@ -1413,7 +1413,7 @@ plt.show()
 
 
     
-![png](output_132_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_132_0.png)
     
 
 
@@ -1461,7 +1461,7 @@ plt.show()
 
 
     
-![png](output_134_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_134_0.png)
     
 
 
@@ -1514,7 +1514,7 @@ plt.show()
 
 
     
-![png](output_135_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_135_0.png)
     
 
 
@@ -1564,7 +1564,7 @@ plt.show()
 
 
     
-![png](output_138_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_138_0.png)
     
 
 
@@ -1608,7 +1608,7 @@ plt.show()
 
 
     
-![png](output_139_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_139_0.png)
     
 
 
@@ -1652,7 +1652,7 @@ plt.show()
 
 
     
-![png](output_140_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_140_0.png)
     
 
 
@@ -1701,7 +1701,7 @@ plt.show()
 
 
     
-![png](output_144_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_144_0.png)
     
 
 
@@ -1736,7 +1736,7 @@ plt.show()
 
 
     
-![png](output_147_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_147_0.png)
     
 
 
@@ -1807,7 +1807,7 @@ plt.show()
 
 
     
-![png](output_152_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_152_0.png)
     
 
 
@@ -1899,7 +1899,7 @@ print('Клиника оказывает', total_unique_services, 'уникал�
 
 
     
-![png](output_159_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_159_0.png)
     
 
 
@@ -1955,7 +1955,7 @@ plt.show()
 
 
     
-![png](output_160_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_160_0.png)
     
 
 
@@ -2009,7 +2009,7 @@ plt.show()
 
 
     
-![png](output_161_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_161_0.png)
     
 
 
@@ -2046,7 +2046,7 @@ plt.show()
 
 
     
-![png](output_163_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_163_0.png)
     
 
 
@@ -2136,7 +2136,7 @@ plt.show()
 
 
     
-![png](output_166_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_166_0.png)
     
 
 
@@ -2232,7 +2232,7 @@ plt.show()
 
 
     
-![png](output_171_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_171_0.png)
     
 
 
@@ -2277,7 +2277,7 @@ plt.show()
 
 
     
-![png](output_173_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_173_0.png)
     
 
 
@@ -2322,7 +2322,7 @@ plt.show()
 
 
     
-![png](output_175_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_175_0.png)
     
 
 
@@ -2358,7 +2358,7 @@ plt.show()
 
 
     
-![png](output_176_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_176_0.png)
     
 
 
