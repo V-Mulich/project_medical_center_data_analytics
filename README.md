@@ -28,8 +28,12 @@ import plotly.express as px
 # **Получаем данные и знакомимся с ними** 
 '''Исходные данные лежат в папке `data`; название файла: [data_test_task_2022.xlsx](data)'''
 
-[Исходные данные][1]
+[Исходные данные][2]
 
+[2]:https://github.com/V-Mulich/project_medical_center_data_analytics/tree/main/data
+
+
+Если вы уже на GitHub, проходите по этой ссылке: [исходные данные][1] 
 [1]:https://github.com/V-Mulich/project_medical_center_data_analytics/tree/main/data
 
 
