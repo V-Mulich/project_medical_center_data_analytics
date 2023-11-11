@@ -30,18 +30,30 @@ import plotly.express as px
 
 
 ```python
-# Укажите путь к файлу Excel
-file_path = '/content/drive/MyDrive/data/data_test_task_2022.xlsx'
+# Укажите путь к файлу Excel.
+# df = pd.read_excel('укажите путь привычным вам способом') Например, если вы загрузили файл с данными на компьютер,
+# затем работаете с ним через Jupyter Notebook или обычно открываете файлы через Colab.
+# Короче говоря, найдите способ открыть файл =) Это просто!) Ниже приведен лишь один из множества способов.
+file_paths = [
+    '/datasets/data_test_task_2022.xlsx',
+    '../datatest/data_test_task_2022.xlsx',
+    '/content/drive/MyDrive/data/data_test_task_2022.xlsx'
+]
 
 # Считываем данные из файла Excel
-try:
-    df = pd.read_excel('/datasets/data_test_task_2022.xlsx')
-    # df = pd.read_excel('укажите путь привычным вам способом') Например, вы загружаете файл с данными на компьютер,
-    # а потом работаете с ними через Jupyter Notebook или обычно открываете файлы через Сolab.
-    # Короче, найдите способ открыть файл =) Это просто!)
-except:
-    df = pd.read_excel(file_path)
+for file_path in file_paths:
+    try:
+        df = pd.read_excel(file_path)
+        print(f"Данные успешно получены из файла по пути: {file_path}")
+        break  # Если считывание прошло успешно, выходим из цикла
+    except: 
+        print(" ")
+else:
+    # Этот блок выполнится, если цикл завершится без использования break
+    print("Не удалось считать данные из всех указанных путей.")
+```
 
+```python
 # Выводми содержание df
 df
 ```
