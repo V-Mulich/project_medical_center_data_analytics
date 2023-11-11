@@ -57,7 +57,7 @@ else:
 
 
      
-    Данные успешно получены из файла по пути: ../datatest/data_test_task_2022.xlsx
+    Данные успешно получены из файла по пути: C:\\Users\Мулич\datatest\data_test_task_2022.xlsx
     
 
 
