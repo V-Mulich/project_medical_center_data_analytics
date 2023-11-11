@@ -767,10 +767,8 @@ plt.grid(True)
 plt.show()
 
 ```
-
-![png](https://github.com/V-Mulich/projects/blob/main/images/output_102_0.png)
     
-![png](output_84_0.png)
+![png](https://github.com/V-Mulich/projects/blob/main/images/output_84_0.png)
     
 
 
