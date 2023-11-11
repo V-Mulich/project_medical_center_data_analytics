@@ -29,6 +29,16 @@ import plotly.express as px
 Исходные данные лежат в папке `data`; название файла: `data_test_task_2022.xlsx` \
 Получить данные на GitHub: [исходные данные](https://github.com/V-Mulich/project_medical_center_data_analytics/tree/main/data)
 
+Описание данных:
+* `record_id` - уникальный идентификатор строки данных;
+* `service_date` - дата оказания медицинской услуги;
+* `service_name` - наименование медицинской услуги;
+* `service_number` - количество услуг;
+* `service_amount` - сумма выплат (стоимость оказанных услуг в рублях);
+* `insured` - уникальный идентификатор пациента;
+* `sex_id` - пол пациента;
+* `age_for_service_date` - возраст пациента.
+
 ```python
 # Укажите путь к файлу Excel.
 # df = pd.read_excel('укажите путь привычным вам способом') Например, вы загружаете файл с данными на компьютер,
